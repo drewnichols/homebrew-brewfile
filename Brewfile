@@ -1,0 +1,8 @@
+cask_args appdir: '/Applications'
+tap 'caskroom/cask'
+cask 'google-chrome'
+cask '1password'
+cask 'iterm2'
+cask 'atom'
+cask 'sourcetree'
+cask 'slack'
